@@ -1,4 +1,4 @@
-public class NumberTypeDemo {
+public class NumberType {
     public static void main(String[] args) {
         // 소리가 1시간 동안 가는 거리 계산
         double soundSpeed = 343; // 소리의 속도 (m/s)
