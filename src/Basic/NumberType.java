@@ -1,3 +1,5 @@
+package basic;
+
 public class NumberType {
     public static void main(String[] args) {
         // 소리가 1시간 동안 가는 거리 계산
